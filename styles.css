@@ -1,0 +1,10 @@
+body {
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: aqua;
+  background-color: darkred;
+  padding: 1em;
+}
